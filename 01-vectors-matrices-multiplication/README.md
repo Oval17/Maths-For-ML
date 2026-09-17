@@ -3,10 +3,10 @@
 > Part of [Maths-for-ML](../Readme.md)
 
 ## Goals
-- [ ] Vectors: addition, scalar multiplication, linear combinations
-- [ ] Matrices: shapes, transpose, identity, inverse
-- [ ] Matrix multiplication: rules, shapes `(m×n) @ (n×p) → (m×p)`, non-commutativity
-- [ ] Broadcasting and `numpy` vectorization
+- [x] Vectors: addition, scalar multiplication, linear combinations
+- [x] Matrices: shapes, transpose, identity, inverse
+- [x] Matrix multiplication: rules, shapes `(m×n) @ (n×p) → (m×p)`, non-commutativity
+- [x] Broadcasting and `numpy` vectorization
 
 ## Key formulas
 - Dot-style multiply: `C[i,j] = sum_k A[i,k] * B[k,j]`
